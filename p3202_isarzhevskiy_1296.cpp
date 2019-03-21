@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int t_1296() {
     int n, cur_num, sum, max_sum = 0;
     bool first_stage = true;
     std::cin >> n;

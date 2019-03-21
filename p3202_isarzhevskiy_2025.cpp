@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-int t_2025() {
+int main() {
     int t;
     std::cin >> t;
     for (int i = 0; i < t; i++) {
@@ -16,3 +16,4 @@ int t_2025() {
     }
     return 0;
 }
+
